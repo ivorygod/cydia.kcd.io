@@ -1,4 +1,4 @@
-uroboro.github.io
+cydia.kcd.io
 =================
 
-GitHub Pages page on GitHub
+a Cydia repository.
